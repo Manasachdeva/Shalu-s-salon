@@ -1,0 +1,14 @@
+{
+  "name": "shalus-salon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Shalu's Salon — hair, beauty and a little time for you in Mont Kiara.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs --dir dist",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
