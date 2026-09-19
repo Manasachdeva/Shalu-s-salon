@@ -1,0 +1,6 @@
+{
+  "name": "BrothersBlock.Runtime",
+  "rootNamespace": "BrothersBlock",
+  "references": ["Unity.Netcode.Runtime", "Unity.Networking.Transport", "Unity.ugui"],
+  "autoReferenced": true
+}

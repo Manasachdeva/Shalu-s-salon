@@ -1,0 +1,6 @@
+{
+  "name": "BrothersBlock.Tests",
+  "references": ["BrothersBlock.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

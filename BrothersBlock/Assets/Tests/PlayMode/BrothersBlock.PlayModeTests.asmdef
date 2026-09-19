@@ -1,0 +1,5 @@
+{
+  "name": "BrothersBlock.PlayModeTests",
+  "references": ["BrothersBlock.Runtime", "Unity.Netcode.Runtime", "Unity.ugui"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
